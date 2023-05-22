@@ -9,4 +9,6 @@ import java.util.List;
 public class Telo {
     private int target;
     private List<Integer> lista;
+
+    private String name2 ;
 }
